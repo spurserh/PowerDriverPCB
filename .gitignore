@@ -4,3 +4,11 @@
 *.SchDocPreview
 
 *.LOG
+
+History/powerdriver.~(155).SchDoc
+
+test_footprint.PcbDocPreview
+
+test_footprint2.PcbDocPreview
+
+powerdriver.PrjPCBStructure
